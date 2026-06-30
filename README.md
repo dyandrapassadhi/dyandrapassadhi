@@ -43,7 +43,7 @@ I am a multidisciplinary designer focusing on **UI/UX Design** and **Graphic Des
 ### 🤝 Let's Collaborate!
 *Feel free to reach out or discuss design and tech projects:*
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DYANDRANARESUAN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dyandra-naresuan-vaisaka-passadhi-964661387)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nrssdyy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyandravaisaka@gmail.com)
 
