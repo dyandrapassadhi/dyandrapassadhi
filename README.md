@@ -32,6 +32,17 @@ I am a multidisciplinary designer focusing on **UI/UX Design** and **Graphic Des
 
 ---
 
+### 🛠️ IDES & Development Tools
+*The environments where I write, test, and fly my code:*
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity%20(Python)-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
 ### 📊 GitHub Analytics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dyandrapassadhi&show_icons=true&theme=tokyonight" alt="Statistik Dyandra" width="400"/>
